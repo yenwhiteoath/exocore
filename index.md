@@ -2,4 +2,4 @@
 layout: home
 title: Home
 ---
-[![](/images/wired.png)]
+[![](/images/wired.png)](/index/)
