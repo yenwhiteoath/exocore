@@ -2,4 +2,4 @@
 layout: home
 title: Home
 ---
-# Ascension
+[![](/images/wired.png)]
