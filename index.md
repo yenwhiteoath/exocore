@@ -2,4 +2,4 @@
 layout: home
 title: Home
 ---
-[![](/images/wired.png)](/index/)
+[![](/images/sendai_daikannon.jpg)](/index/)
