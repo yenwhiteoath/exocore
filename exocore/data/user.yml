@@ -15,11 +15,11 @@ profile_pic: assets/imgs/pfp.png
 
 
 # The header that will be displayed on your homepage:
-welcome_header: White Oath
+welcome_header: White Oath Exocore
 
 
 # The subtitle to the above header on your homepage:
-welcome_subtitle: personal archive
+welcome_subtitle:
 
 
 # Include the Viral Public License at the bottom of your posts (Accepts true/false). Read more about the VPL at https://viralpubliclicense.org.
