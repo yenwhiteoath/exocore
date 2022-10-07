@@ -35,6 +35,6 @@ With widescreen? 1.30.1
 PTR builds do not support LAN play
 
 **Find instructions and links for patches and individual client downloads here:**
-https://mega.nz/#F!QsoUDArC!_RhQlXPm9Tf6q_O8sE9kkg
-https://pastebin.com/CdskkiD9
-https://pastebin.com/Wkbp8NeG
+- [https://mega.nz/#F!QsoUDArC!_RhQlXPm9Tf6q_O8sE9kkg](https://mega.nz/#F!QsoUDArC!_RhQlXPm9Tf6q_O8sE9kkg)
+- [https://pastebin.com/CdskkiD9](https://pastebin.com/CdskkiD9)
+- [https://pastebin.com/Wkbp8NeG](https://pastebin.com/Wkbp8NeG)

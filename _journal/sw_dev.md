@@ -11,7 +11,7 @@ tags: computing
 - [Programming and Programming Languages (Brown CS019)](https://dcic-world.org/)
 - [Functional Data Structures](https://cs.uwaterloo.ca/~plragde/flaneries/FDS/)
 - [Introduction to Algorithms (MIT 6.006)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)
-- [Advanced Data Structures (UCSD CSE 100)](https://ucsd-cse100-s20.github.io/#schedule) [[Youtube playlist]](https://www.youtube.com/playlist?list=PLM_KIlU0WoXmkV4QB1Dg8PtJaHTdWHwRS)
+- [Advanced Data Structures (UCSD CSE 100)](https://ucsd-cse100-s20.github.io/#schedule) [Youtube playlist](https://www.youtube.com/playlist?list=PLM_KIlU0WoXmkV4QB1Dg8PtJaHTdWHwRS)
 
 ## Competitions, challenges, projects
 - [Competitive Programming book - starred Kattis problems](https://cpbook.net/methodstosolve?oj=kattis&topic=ch1&quality=starred)
