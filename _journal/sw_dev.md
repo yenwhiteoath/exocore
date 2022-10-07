@@ -1,5 +1,5 @@
 ---
-subtitle: Collection of courses to learn programming
+subtitle:
 topic: Software Development
 date: 2022-10-07
 tags: computing

@@ -1,5 +1,5 @@
 ---
-subtitle: Configuration of the Vim text editor
+subtitle:
 topic: Vim
 date: 2022-10-07
 tags: computing
