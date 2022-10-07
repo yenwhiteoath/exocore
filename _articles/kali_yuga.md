@@ -4,7 +4,7 @@ category: article
 title: Mahabharata, Book 3, Section CLXXXIX
 subtitle:
 topic:
-date: 2022-10-08
+date: 2022-10-07
 tags: hinduism
 ---
 # Mahabharata, Book 3, Section CLXXXIX

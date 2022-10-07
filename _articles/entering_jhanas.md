@@ -4,7 +4,7 @@ category: article
 title: Entering the Jhanas
 subtitle:
 topic:
-date: 2022-10-08
+date: 2022-10-07
 tags: buddhism
 ---
 # Entering the Jhanas

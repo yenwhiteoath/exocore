@@ -4,7 +4,7 @@ category: article
 title: Zen Terror
 subtitle:
 topic:
-date: 2022-10-08
+date: 2022-10-07
 tags: buddhism
 ---
 # Zen Terror

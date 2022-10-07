@@ -4,7 +4,7 @@ category: article
 title: Chan Seated Meditation
 subtitle:
 topic:
-date: 2022-10-08
+date: 2022-10-07
 tags: buddhism
 ---
 # The Chan School’s Correct Method for the Practice Of Seated Meditation
