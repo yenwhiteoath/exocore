@@ -1,4 +1,5 @@
 ---
+title: Zen terror
 subtitle:
 topic:
 date: 2022-10-08

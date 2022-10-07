@@ -110,7 +110,7 @@ It may not be necessary to completely master and perfect these two disciplines, 
 >He has no perception of perception; he has no perception of non-perception;
 He is not without perception; he has no perception of "void";
 For one who has attained thus form becomes void;
-For founded in perception is diversification and designation. 
+For founded in perception is diversification and designation.
 (-Kalahavivāda Sutta v.13, of the Aṭṭhakavagga, a Pali precursor of the Zen koan)
 	
 Mental states are ultimately irrelevant to Nibbāna. This cannot be comprehended intellectually. In fact, the reasoning mind cannot lay a finger on the ultimate goal of spiritual practice. Even such standard conceptual definitions of Nibbāna as "the cessation of suffering and delusion" are invalid and inapplicable expedients. The problem of phenomenal existence is solved by a kind of metasolution which is not itself an integral part of the phenomenal system. Again, the solution requires complete detachment from or transcendence of all points of view, not somehow discovering or devising a "True" one.
@@ -162,7 +162,10 @@ May all in want of wisdom find it, and may all beings be well and peaceful.
 
 8. In Food for the Heart (The Sangha, Wat Pah Nanachat, 1992).
 
-**Written by Paññobhāsa Bhikkhu
+Written by Paññobhāsa Bhikkhu
+
 Wun Bo Wildlife Refuge Monastery
+
 Butalin Township, Upper Burma (Myanmar)
-20 March 2007**
+
+20 March 2007
