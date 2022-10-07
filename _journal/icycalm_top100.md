@@ -18,7 +18,6 @@ tags: vidya
 08. Wing Commander (1990)
 09. Sid Meier's Alpha Centauri (1999)
 10. Far Cry (2004)
-
 11. Metal Gear Solid 2 (haven't played 3-5 yet)
 12. Sid Meier's Pirates!
 13. Master of Magic
