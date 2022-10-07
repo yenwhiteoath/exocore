@@ -1,13 +1,13 @@
 ---
 layout: article
 category: article
-title: Zen terror
+title: Zen Terror
 subtitle:
 topic:
 date: 2022-10-08
 tags: buddhism
 ---
-# Zen terror
+# Zen Terror
 (Originally on [aeon.co](https://aeon.co/essays/the-lessons-of-nissho-inoue-and-his-cell-of-zen-terrorists))
 
 Master Nissho Inoue and his band of assassins teach some uncomfortable truths about terrorism, for those who will hear.
