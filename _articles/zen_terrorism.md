@@ -8,10 +8,10 @@ date: 2022-10-08
 tags: buddhism
 ---
 # Zen Terror
+
 (Originally on [aeon.co](https://aeon.co/essays/the-lessons-of-nissho-inoue-and-his-cell-of-zen-terrorists))
 
 Master Nissho Inoue and his band of assassins teach some uncomfortable truths about terrorism, for those who will hear.
-
 
 On an early winter’s morning in 1945, four months after the end of the Second World War, a shabbily dressed man in his late 50s walked into the General Headquarters (GHQ) of the Supreme Commander for the Allied Powers in Tokyo. His name was Nissho Inoue, a convicted domestic terrorist and lay disciple of one of Japan’s most famous modern Zen masters, Gempo Yamamoto, abbot of both Ryutaku-ji and Shoin-ji temples.
 

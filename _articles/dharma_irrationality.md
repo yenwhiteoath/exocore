@@ -7,6 +7,7 @@ date: 2022-10-07
 tags: buddhism
 ---
 # Dhamma and Irrationality
+
 (Originally on [Nippapañca](http://www.nippapanca.org/dhamma-and-irrationality.html))
 
 As a rule, human beings have what in Buddhism is called "self view," and identify themselves with something or other. Even Buddhists who intellectually accept and endorse the doctrine of No Self tend nevertheless reflexively or instinctively to identify themselves with something. Many people regard their "self" to be primarily a complex of emotional feelings; many others are identified with their physical body; and quite a few identify, at least to some degree, with such artifacts as career, social status, social movements, worldly accomplishments, or even, especially in the West, with a bank account and objects bought with money. One may derive a sense of self from any or all of these things. But there are very many people in this world, the majority of them evidently being men, who are strongly identified with their thinking mind, or more specifically with their intellect. Such people tend to downplay and disregard the emotional or irrational factors of their own psychological constitution, and attempt to rationalize their own behavior. This is somewhat unfortunate, as all behavior, physical and mental, is ultimately not rational. Emotional factors and illogic are running the show for all of us.
