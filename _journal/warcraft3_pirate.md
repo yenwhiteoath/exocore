@@ -4,7 +4,9 @@ topic:
 date: 2022-10-07
 tags: vidya
 ---
+
 # Warcraft 3 Classic post-Reforged guide
+
 >I have classic WC3 installed, what should I do to not lose it to Reforged?
 
 Don't let it update, never launch it with the Launcher, only Warcraft3.exe.

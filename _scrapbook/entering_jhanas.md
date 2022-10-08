@@ -1,6 +1,4 @@
 ---
-layout: article
-category: article
 title: Entering the Jhanas
 subtitle:
 topic:

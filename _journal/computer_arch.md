@@ -4,6 +4,7 @@ topic: Computer Systems
 date: 2022-10-07
 tags: computing
 ---
+
 # Computer Systems
 
 ![[pcb.png]]

@@ -1,6 +1,4 @@
 ---
-layout: article
-category: article
 title: Zen Terror
 subtitle:
 topic:

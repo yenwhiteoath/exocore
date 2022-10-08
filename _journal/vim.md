@@ -6,6 +6,7 @@ tags: computing
 ---
 
 # Vim text editor configuration
+
 ## Setup
    1. [Install neovim](https://neovim.io/)
    2. [See how to migrate from vim/use the config file](https://neovim.io/doc/user/nvim.html#nvim-from-vim)

@@ -6,6 +6,7 @@ tags: computing
 ---
 
 # Software Development
+
 ## Courses
 - [Functional Programming in OCaml (Cornell CS3110)](https://cs3110.github.io/textbook/cover.html)
 - [Programming and Programming Languages (Brown CS019)](https://dcic-world.org/)

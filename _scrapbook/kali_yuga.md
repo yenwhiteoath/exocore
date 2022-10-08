@@ -2,7 +2,7 @@
 subtitle:
 topic:
 date: 2022-10-07
-tags: hinduism
+tags: eastern_religions
 ---
 # Mahabharata, Book 3, Section CLXXXIX
 
