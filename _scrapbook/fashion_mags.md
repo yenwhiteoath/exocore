@@ -7,7 +7,7 @@ tags: aesthetics
 ---
 # Fashion Mags
 
- Anonymous Fri Jun 2 08:24:02 2017 No.12507248 [View]
+## Anonymous Fri Jun 2 08:24:02 2017 No.12507248 [View]
 
     >>12506126
     depends what you're looking for
@@ -42,7 +42,7 @@ tags: aesthetics
     go out 
 
 
-Anonymous Fri Jan 10 03:54:08 2014 No.7579273 [View]
+## Anonymous Fri Jan 10 03:54:08 2014 No.7579273 [View]
 
     Just gonna list a few that are good, not Vogue / GQ tier magazines
 

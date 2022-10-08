@@ -1,7 +1,7 @@
 ---
 subtitle:
 topic:
-date: 2022-10-07
+date: 2022-10-08
 tags: vidya
 ---
 
@@ -21,6 +21,7 @@ tags: vidya
 - PC
     - Warcraft 3
     - Age of Mythology
+    - Counter Strike 1.6
     - Rome: Total War
     - Europa Universalis 3
     - 1944 Battle of the Bulge

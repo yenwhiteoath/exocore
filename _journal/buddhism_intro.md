@@ -7,7 +7,7 @@ tags: buddhism
 
 # An Introduction to Buddhism
 
-🎐🎐🎐
+## 🎐🎐🎐
 
 “Does Master Gotama have any position at all?”
 
