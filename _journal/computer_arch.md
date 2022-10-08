@@ -4,7 +4,8 @@ topic: Computer Systems
 date: 2022-10-07
 tags: computing
 ---
-# Computer Architecture
+# Computer Systems
+
 ![[pcb.png]]
 ## Courses
 - [Fundamentals of Computer Systems (Brown CSCI0300)](https://cs.brown.edu/courses/csci0300/2022/schedule.html)

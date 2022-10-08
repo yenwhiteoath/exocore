@@ -1,5 +1,4 @@
 ---
-title: The Lion's Roar on the Turning of the Wheel (Cakkavatti-Sihanada Sutta)
 subtitle:
 topic:
 date: 2022-10-07

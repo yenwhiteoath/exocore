@@ -1,7 +1,6 @@
 ---
-title: Chan Seated Meditation
 subtitle:
-topic:
+topic: Chan Seated Meditation
 date: 2022-10-07
 tags: buddhism
 ---
