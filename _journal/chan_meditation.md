@@ -1,6 +1,4 @@
 ---
-layout: article
-category: article
 title: Chan Seated Meditation
 subtitle:
 topic:

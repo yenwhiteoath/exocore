@@ -1,6 +1,4 @@
 ---
-layout: article
-category: article
 title: Mahabharata, Book 3, Section CLXXXIX
 subtitle:
 topic:
