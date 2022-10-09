@@ -9,6 +9,7 @@ tags: computing finance
 
 - [Max Dama - Quantitative trading summary](https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/)
 - [The Accidental HFT Firm](/library/accidental_hft.txt)
+- [Some HN comments](/library/quant.txt)
 - [Numerai](https://numerai.fund/)
 - [nuclearphynance](https://www.nuclearphynance.com/default.aspx)
   - [espressolover collected posts](/library/espressolover.txt)

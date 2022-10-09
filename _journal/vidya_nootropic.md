@@ -2,7 +2,7 @@
 subtitle:
 topic:
 date: 2022-10-08
-tags: vidya
+tags: vidya health
 ---
 
 # Videogames as Nootropics
