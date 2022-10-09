@@ -5,8 +5,9 @@ topic: Algorithmic trading & Quant finance
 date: 2022-10-07
 tags: computing finance
 ---
-
 # Algorithmic trading & Quant finance
+
+- [Max Dama - Quantitative trading summary](https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/)
 - [The Accidental HFT Firm](/library/accidental_hft.txt)
 - [Numerai](https://numerai.fund/)
 - [nuclearphynance](https://www.nuclearphynance.com/default.aspx)

@@ -4,7 +4,6 @@ topic:
 date: 2022-10-08
 tags: health
 ---
-
 # Serotonin - tweets by Landshark and Menatetronone_4
 
 Ray Peat explained the "people being unable to visualize an apple in their mind" thing like 20 years ago, it's not innate, it comes due to an excess of serotonin. On the "personality"/"consciousness" level, serotonin promotes excessive speech and wordiness and a lack of imagery.

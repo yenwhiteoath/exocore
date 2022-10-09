@@ -4,7 +4,6 @@ topic:
 date: 2022-10-08
 tags: productivity
 ---
-
 # Learning by challenge
 
 **jandrewrogers on Sept 7, 2013**

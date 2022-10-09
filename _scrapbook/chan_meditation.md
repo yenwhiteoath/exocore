@@ -4,7 +4,6 @@ topic: Chan Seated Meditation
 date: 2022-10-07
 tags: buddhism
 ---
-
 # The Chan School’s Correct Method for the Practice Of Seated Meditation
 
 (Originally on [wenshuchan-online](https://wenshuchan-online.weebly.com/zuo-chan-yi---223523110920202-seated-meditation.html))

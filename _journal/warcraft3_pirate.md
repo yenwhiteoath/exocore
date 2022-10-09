@@ -4,7 +4,6 @@ topic:
 date: 2022-10-07
 tags: vidya
 ---
-
 # Warcraft 3 Classic post-Reforged guide
 
 >I have classic WC3 installed, what should I do to not lose it to Reforged?

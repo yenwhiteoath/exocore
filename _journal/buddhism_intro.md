@@ -4,8 +4,7 @@ topic:
 date: 2022-10-07
 tags: buddhism
 ---
-
-# An Introduction to Buddhism
+# Buddhism - Introduction
 
 ## 🎐🎐🎐
 
@@ -20,3 +19,4 @@ tags: buddhism
 ## Five Aggregates
 ## Noble Eightfold Path
 ## Four Dhyānas
+## Five hindrances
