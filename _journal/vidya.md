@@ -18,7 +18,7 @@ tags: vidya
 - Metal Gear Solid 5
 
 ## Childhood
-- PC
+### PC
     - Warcraft 3
     - Age of Mythology
     - Counter Strike 1.6
