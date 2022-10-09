@@ -4,6 +4,7 @@ topic: Yen's vidya lists
 date: 2022-10-08
 tags: vidya
 ---
+
 # Yen's vidya lists
 
 ![[halo_ce1.jpg]]
