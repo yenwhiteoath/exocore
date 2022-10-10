@@ -2,7 +2,7 @@
 subtitle:
 topic:
 date: 2022-10-09
-tags: buddhism eastern_religions
+tags: buddhism
 ---
 # Collected 4chan posts on buddhism
 
