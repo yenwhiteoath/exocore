@@ -1,6 +1,6 @@
 ---
 topic:
-date: 2022-10-010
+date: 2022-10-10
 tags: hyperdata
 ---
 # Interface theory of truth
