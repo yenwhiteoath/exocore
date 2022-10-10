@@ -1,10 +1,13 @@
 ---
 topic:
 date: 2022-10-10
-tags: hyperdata
+tags: hyperdata biology
 ---
-# Interface theory of truth
+# Interface theory of perception
 
+## TODO
+
+https://www.cogsci.uci.edu/~ddhoff/interface.pdf
 People who can't defend
 themselves physically (women and
 low T men) parse information

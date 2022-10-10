@@ -2,7 +2,7 @@
 subtitle:
 topic:
 date: 2022-10-09
-tags: videogames
+tags: vidya
 ---
 
 # Paul Skallas on videogames
