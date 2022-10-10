@@ -7,6 +7,8 @@ tags: computing
 
 # Vim text editor configuration
 
+![[vim.jpg]]
+
 ## Setup
    1. [Install neovim](https://neovim.io/)
    2. [See how to migrate from vim/use the config file](https://neovim.io/doc/user/nvim.html#nvim-from-vim)
@@ -17,13 +19,26 @@ tags: computing
 ## Config files
 ### ~/.config/nvim/init.vim
 
-    `set runtimepath^=~/.vim runtimepath+=~/.vim/after
+    set runtimepath^=~/.vim runtimepath+=~/.vim/after
     let &packpath = &runtimepath
     source ~/.vimrc
 
     " Plugin Section
     call plug#begin("~/.vim/plugged")
+        Plug 'dracula/vim'
+        Plug 'mildewchan/takodachi.vim'
+        Plug 'xero/sourcerer.vim'
+        Plug 'bluz71/vim-nightfly-guicolors'
+        Plug 'sainnhe/sonokai'
+        Plug 'lewis6991/moonlight.vim'
         Plug 'arzg/vim-colors-xcode'
+        Plug 'mhartington/oceanic-next'
+        Plug 'sonph/onehalf', { 'rtp': 'vim' }
+        Plug 'tomasr/molokai'
+        Plug 'gosukiwi/vim-atom-dark'
+        Plug 'tomasiser/vim-code-dark'
+        Plug 'joshdick/onedark.vim'
+        Plug 'nikolvs/vim-sunbather'
         Plug 'sheerun/vim-polyglot'
         Plug 'vim-airline/vim-airline'
         Plug 'jiangmiao/auto-pairs'
@@ -34,7 +49,23 @@ tags: computing
     if (has("termguicolors"))
         set termguicolors
     endif
-    colorscheme dracula`
+    syntax enable
+
+    colorscheme onedark
+    " Some other color schemes
+    " colorscheme dracula
+    " colorscheme sourcerer
+    " colorscheme takodachi
+    " colorscheme nightfly
+    " colorscheme sonokai
+    " colorscheme moonlight
+    " colorscheme xcodedark
+    " colorscheme OceanicNext
+    " colorscheme onehalfdark
+    " colorscheme molokai
+    " colorscheme atom-dark
+    " colorscheme codedark
+    " colorscheme sunbather
 
 ### ~/.vimrc
 
@@ -85,10 +116,11 @@ tags: computing
     setglobal tags-=./tags tags^=./tags;
     endif
     inoremap <C-U> <C-G>u<C-U>
-    set mouse-=a
+    set mouse=a
     command Wq wq
     command WQ wq
     command W w
     command Q q
-    nnoremap Q 
+    nnoremap Q <nop>
     set pastetoggle=<F2>
+    set clipboard=unnamedplus

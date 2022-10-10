@@ -69,7 +69,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/imgs/card.png
+      image: /assets/imgs/card.jpg
   - scope:
       path: ""
       type: "articles"
