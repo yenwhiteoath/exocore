@@ -8,27 +8,33 @@ tags: buddhism
 
 - Mahayana Buddhism - The Doctrinal Foundations (Paul Williams)
   - Excellent academic textbook, covers all traditions chronologically
-I didn't find these helpful:
-- Awakening of Faith in the Mahayana (Translations from the Asian Classics)
+
+I didn't find these very helpful:
+- Awakening of Faith in the Mahayana
 - A Guide to the Bodhisattva Way of Life
 
 ## Sutras
 Red Pine for Heart/Diamond, BDK or Shambhala are good for others.
-- The Heart Sutra
-  - The sutra itself is 2 pages but the commentary is a great introduction to Buddhism and to how Mahayana differs from Shravaka traditions
+
+### Prajnaparamita
+- **The Heart Sutra**
+  - The sutra itself is 2 pages but the commentary is a great introduction to Buddhism and to how Mahayana differs from Śrāvaka traditions.
 - The Diamond Sutra
-- The Lotus Sutra
-  - Tiantai/Tendai but generally the most important
+### Tiantai/Tendai
+- **The Lotus Sutra**
+### Pure Land
 - The Three Pure Land Sutras
-  - Pure Land
+### Yogacara
 - Saṃdhinirmocana Sutra
-  - Yogacara
+### Chan/Zen
 - Lankavatara Sutra
-  - Chan/Zen
-- Vimalakirti Sutra
+### Tathāgatagarbha
+- Tathāgatagarbha sūtra
 - The Sutra of Queen Srimala of the Lion's Roar
+### Huayen
 - Avatamsaka Sutra
-  - Huayen
+### Misc
+- Vimalakirti Sutra
 
 ## Nagarjuna
 - Nagarjuna's Middle Way: The Mulamadhyamakakarika (Classics of Indian Buddhism)
@@ -41,7 +47,7 @@ Red Pine for Heart/Diamond, BDK or Shambhala are good for others.
 
 ## Chan/Zen
 - The Zen Teachings of Bodhidharma
-- Platform Sutra, The: The Zem Teaching of Hui-Neng
+- The Platform Sutra of the Sixth Patriarch
 - The Clouds Should Know Me By Now: Buddhist Poet Monks of China
 - The Record of Linji: A New Translation Of The Linjilu In The Light Of Ten Japanese Zen Commentaries
 - The Mountain Poems of Stonehouse
