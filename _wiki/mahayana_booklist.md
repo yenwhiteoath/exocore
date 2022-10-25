@@ -1,11 +1,12 @@
 ---
 subtitle:
 topic: Mahayana reading list
-date: 2022-10-08
+date: 2022-10-23
 tags: buddhism
 ---
 # Mahayana reading list
 
+## General/Introductory
 - **Mahayana Buddhism - The Doctrinal Foundations (Paul Williams)**
   - Excellent academic textbook, covers all traditions chronologically
 - Awakening of Faith in the Mahayana
@@ -26,7 +27,7 @@ Red Pine for Heart/Diamond, BDK or Shambhala are good for others.
 ### Pure Land
 - The Three Pure Land Sutras
 
-### Yogacara
+### Yogācāra
 - Saṃdhinirmocana Sutra
 
 ### Chan/Zen
@@ -42,7 +43,7 @@ Red Pine for Heart/Diamond, BDK or Shambhala are good for others.
 ### Misc
 - Vimalakirti Sutra
 
-## Nagarjuna
+## Nāgārjuna 
 - Nagarjuna's Middle Way: The Mulamadhyamakakarika (Classics of Indian Buddhism)
 - Nagarjuna's Seventy Stanzas: A Buddhist Psychology of Emptiness
 - The Dispeller of Disputes: Nagarjuna's Vigrahavyavartani

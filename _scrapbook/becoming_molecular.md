@@ -8,8 +8,9 @@ tags: western_philosophy
 
 ## Kavka's metamorphosis
 
->Anonymous Wed Feb 27 22:04:42 2019 No.12673862 [View]
-In Metamorphosis, the main character wakes up as a beetle. The entire short story describes how becoming a beetle fundamentally changes your perception of things. His old habits & routine were completely destroyed, it was a rupture of a personal identity. But out of this shattering, new ways are opened. If you are familiar with Tarot, a rupturing of time is a bit like the cards Hanged Man and XIII.
+> Anonymous Wed Feb 27 22:04:42 2019 No.12673862 [View]
+
+> In Metamorphosis, the main character wakes up as a beetle. The entire short story describes how becoming a beetle fundamentally changes your perception of things. His old habits & routine were completely destroyed, it was a rupture of a personal identity. But out of this shattering, new ways are opened. If you are familiar with Tarot, a rupturing of time is a bit like the cards Hanged Man and XIII.
 Deleuze's becomings are modeled largely like Gregor's transformation. One can compare Gregor with the becoming-recluse of hikkokomori. Now one might ask "hikkokomori aren't ACTUALLY beetles though", but for Deleuze this is a badly proposed question. There is no stable identity, no actual identity, there are only how the flows are interpreted, repressed, transformed ect. Once one understands that, one can go ahead and consciously cultivate new alliances to choose becomings that one desires and that are useful to them. Think how becoming-beetle might be useful to a hikkokomori. Deleuze also warns us to stay on the edges of the pack of becoming. A hikkokomori has become-beetle so deeply that finding a way out is very difficult. The center is too intense, the self will not survive (Remember card XIII as not an end but a transformation). 
 
 ## Becoming molecular
