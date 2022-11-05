@@ -6,12 +6,12 @@ tags: buddhism
 ---
 # Mahayana reading list
 
-## General/Introductory
+## Modern texts
 - **Mahayana Buddhism - The Doctrinal Foundations (Paul Williams)**
-  - Excellent academic textbook, covers all traditions chronologically
+
+## Ancient classics
 - Awakening of Faith in the Mahayana
 - A Guide to the Bodhisattva Way of Life
-  - I didn't find those last 2 very useful
 
 ## Sutras
 Red Pine for Heart/Diamond, BDK or Shambhala are good for others.
@@ -22,7 +22,7 @@ Red Pine for Heart/Diamond, BDK or Shambhala are good for others.
 - The Diamond Sutra
 
 ### Tiantai/Tendai
-- **The Lotus Sutra**
+- The Lotus Sutra
 
 ### Pure Land
 - The Three Pure Land Sutras
@@ -32,6 +32,7 @@ Red Pine for Heart/Diamond, BDK or Shambhala are good for others.
 
 ### Chan/Zen
 - Lankavatara Sutra
+- Śūraṅgama Sutra
 
 ### Tathāgatagarbha
 - Tathāgatagarbha sūtra
