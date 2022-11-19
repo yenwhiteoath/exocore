@@ -16,9 +16,10 @@ tags: computing
 
 ## Competitions, challenges, projects
 - [Competitive Programming book - starred Kattis problems](https://cpbook.net/methodstosolve?oj=kattis&topic=ch1&quality=starred)
+- [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
+- [Crafting Interpreters](https://craftinginterpreters.com/contents.html)
 - [OverTheWire Wargames](https://overthewire.org/wargames/)
 - [Cryptopals challenges](https://cryptopals.com/)
-- [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 
 ## Web Design
 - [MIT webdev workshop](https://weblab.mit.edu/schedule/)
