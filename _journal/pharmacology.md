@@ -1,7 +1,7 @@
 ---
 subtitle: Pharmacology
 topic:
-date: 2022-11-20
+date: 2022-11-19
 tags: biology
 ---
 # Pharmacology
