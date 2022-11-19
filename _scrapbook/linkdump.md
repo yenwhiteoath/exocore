@@ -6,7 +6,7 @@ tags: hyperdata
 ---
 # Links
 https://zyg.edith.reisen/
-[[library/miya_archive.txt]]
+[[../library/miya_archive.txt]]
 https://chen2.org/realtime_paper.html
 https://zerobin.net/?1ccb4e8e2734389b#BiwkpdlheHmpmldvzK5EhyzBrJk1Pb4A6YSBaj2W4tM=
 https://primecult.one/
@@ -54,5 +54,6 @@ https://users.ece.cmu.edu/~adrian/630-f03/lifelog.html
 https://www.theatlantic.com/magazine/archive/1993/12/how-the-world-works/305854/
 https://www.dailymail.co.uk/news/article-9783807/Navy-disarray-focusing-diversity-training-warfighting-report-says.html
 https://www.chicagotribune.com/opinion/commentary/ct-gloria-steinem-cia-20151025-story.html
+
 
 
