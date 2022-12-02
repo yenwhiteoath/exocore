@@ -44,14 +44,29 @@ Red Pine for Heart/Diamond, BDK or Shambhala are good for others.
 ### Misc
 - Vimalakirti Sutra
 
-## Nāgārjuna 
-- Nagarjuna's Middle Way: The Mulamadhyamakakarika (Classics of Indian Buddhism)
-- Nagarjuna's Seventy Stanzas: A Buddhist Psychology of Emptiness
-- The Dispeller of Disputes: Nagarjuna's Vigrahavyavartani
-- Crushing the Categories (Vaidalyaprakarana) (Treasury of the Buddhist Sciences)
-- Nagarjuna's "Reason Sixty" (Yuktisastika) with Candrakirti's Commentary (Yuktisastikavrrti) (Treasury of the Buddhist Sciences)
-- Nagarjuna's Precious Garland: Buddhist Advice for Living and Liberation
-- Aryadeva's Four Hundred Stanzas on the Middle Way (Textual Studies and Translations in Indo-Tibetan Buddhism)
+## Madhyamaka
+### Nāgārjuna 
+- Mulamadhyamakakarika - Verses on the Middle Way
+- Yuktisaktika - Sixty Verses on Reasoning
+- Sunyataspati - Seventy Verses on Emptiness
+- Vigrahavyavartani - Countering Hostile Objections (a reply to objections against his work)
+- Vaidalyaprakarana - The Treatise that Grinds into Little Pieces (an attack on the categories of the Hindu epistemologists (Nyaya))
+- Vyavaharasiddhi - a proof of the conventional realm (this work is lost save for a few verses, and some Tibetans substituted the Ratnavali (The Jewel Garland))
+- Aryadeva's Four Hundred Stanzas on the Middle Way
+
+### Prasangika (Consequentialist)
+Methodology: reductio ad absurdum, point out that an opponent's position entails undesired consequences for the opponent himself.
+- Buddhapalita
+- Candrakirti
+- Santideva
+### Svatantrika (Autonomist)
+Believe reductio ad absurdum is not enough, autonomous inference should be employed to put forth one's own positions. Tsong kha pa says that Svatantrikas, although they deny svabhava ultimately like the Prasangikas, accept that in the conventional realm there is conventional svabhava.
+- Sautrantika-Svatantrika
+  - Bhavaviveka
+- Yogacara-Svatantrika
+  - (although ultimately absolutely everything lacks svabhava, conventionally objects are not external to the reflexively aware perceiving mind)
+  - Santaraksita
+  - Kamalasila
 
 ## Chan/Zen
 - The Zen Teachings of Bodhidharma

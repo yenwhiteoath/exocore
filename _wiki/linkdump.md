@@ -14,13 +14,14 @@ tags: hyperdata
 - <https://login.toikos.net/articles>
 - <https://cryptocculture.com/>
 - <https://theses.ncl.ac.uk/jspui/bitstream/10443/3350/1/Overy%2C%20S.%202016.pdf>
-- <https://www.are.na/blog/visions-of-connection>
-- <https://geohot.github.io/blog/>
 - <https://zermatist.medium.com/collective-mnemotechnics-the-neglected-engine-of-digital-tribalism-a02467f12bd4>
 - <https://www.hgi.org.uk/resources/delve-our-extensive-library/interviews/mysterious-jung-his-cult-lies-he-told-and-occult>
 - <https://counter-currents.com/2021/01/heidegger-metaphysics-middle-ages/>
+- <https://www.metamute.org/editorial/articles/art-war-deleuze-guattari-debord-and-israeli-defence-force>
 - <http://nietzsche.holtof.com/Nietzsche_thus_spake_zarathustra/I_01.html>
+- <https://www.are.na/blog/visions-of-connection>
 - <http://theoblogical.org/dlature/united/ph2paper/noosph.html>
+- <https://geohot.github.io/blog/>
 - <https://jetpress.org/v20/steinhart.htm>
 - <https://www.radicalphilosophy.com/article/axiomatic-heresy>
 - <https://psuedoanalysis.blogspot.com/p/freebased-guattari.html>
@@ -33,8 +34,6 @@ tags: hyperdata
 - <https://sabukaru.online/>
 - <https://nervewing.blogspot.com/>
 - <https://impero.substack.com/p/bioenergetics-i-introduction>
-
-
 - <https://chuangcn.org/>
 - <https://pseudoerasmus.com/>
 - <https://samoburja.com/essays/>

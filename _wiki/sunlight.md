@@ -1,7 +1,7 @@
 ---
 topic:
 date: 2022-10-10
-tags: health biology
+tags: health
 ---
 # Sunlight
 

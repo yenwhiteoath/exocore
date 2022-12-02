@@ -47,3 +47,5 @@ Often, the effect of a drug gradually diminishes when it is given continuously o
   -  Repeated administration of the same dose produces a progressively lower plasma concentration, as a result of increased metabolic degradation.
 - physiological adaptation
   - Diminution of a drug’s effect may occur because it is nullified by a homeostatic response. For example, the blood pressure-lowering effect of thiazide diuretics is limited because of a gradual activation of the renin–angiotensin system.
+
+## How drugs act
