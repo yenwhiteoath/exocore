@@ -18,6 +18,8 @@ tags: computing
 - [Performance Engineering of Software Systems (MIT 6.172)](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/lecture-videos/)
 
 ## Misc
+- [Prabhakar Ragde - flanerie on C](https://cs.uwaterloo.ca/~plragde/flaneries/IYMLC/)
+- [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [Malloc tutorial](https://danluu.com/malloc-tutorial/)
 - [A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux ](https://muppetlabs.com/~breadbox/software/tiny/teensy.html)
 - [Awesome ELF Resources](https://github.com/tmpout/awesome-elf)

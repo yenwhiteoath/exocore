@@ -59,6 +59,7 @@ Methodology: reductio ad absurdum, point out that an opponent's position entails
 - Buddhapalita
 - Candrakirti
 - Santideva
+
 ### Svatantrika (Autonomist)
 Believe reductio ad absurdum is not enough, autonomous inference should be employed to put forth one's own positions. Tsong kha pa says that Svatantrikas, although they deny svabhava ultimately like the Prasangikas, accept that in the conventional realm there is conventional svabhava.
 - Sautrantika-Svatantrika

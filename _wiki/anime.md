@@ -4,7 +4,7 @@ topic:
 date: 2022-10-08
 tags: aesthetics
 ---
-# Yen's anime list
+# Renn's anime list
 
 - Naruto
 - Naruto Shippuden

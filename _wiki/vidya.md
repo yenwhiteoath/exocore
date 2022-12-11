@@ -1,11 +1,11 @@
 ---
 subtitle:
-topic: Yen's vidya lists
+topic: Renn's vidya lists
 date: 2022-10-08
 tags: vidya
 ---
 
-# Yen's vidya lists
+# Renn's vidya lists
 
 ![[jsfr.jpg]]
 

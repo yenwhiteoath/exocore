@@ -49,3 +49,22 @@ Often, the effect of a drug gradually diminishes when it is given continuously o
   - Diminution of a drug’s effect may occur because it is nullified by a homeostatic response. For example, the blood pressure-lowering effect of thiazide diuretics is limited because of a gradual activation of the renin–angiotensin system.
 
 ## How drugs act
+- receptors
+- ion channels
+- enzymes
+- transporters (carrier molecules)
+
+### Receptors
+Receptors are the sensing elements in the system of chemical communications that coordinates the function and responses of all the different cells in the body, the chemical messengers being the various hormones, transmitters and other mediators.
+
+### Ion channels
+Ion channels are essentially gateways in cell membranes that selectively allow the passage  of particular ions, and that are induced to open or close by a variety of mechanisms. Two important types are ligand-gates channels and voltage-gates channels. The former open only when one or more agonist molecules are bound, and are properly classified as receptors, since agonist binding is needed to activate them. Voltage-gates channels are gated by changes in the transmembrane potential rather than by agonist binding.
+Drugs affect ion channels in several ways:
+- By binding to the channel protein itself, either to the ligand-binding (orthosteric) site of ligand-gated channels, or to other (allosteric) sites, or in the simplest case, exemplified the by the action of local anaesthetics on the voltage-gates sodium channel, the drug molecule plugs the channel physically, blocking ion permeation.
+- By an indirect interaction, involving an activates G protein subunit or other intermediary.
+- By altering the level of expression of ion channels on the cell surface. For example, gabapentin reduces the insertion of neuronal calcium channels into the plasma membrane.
+
+### Enzymes
+Many drugs target enzymes. Often, the drug molecule is a substrate analogue that acts as a competitive inhibitor of the enzyme. Drugs may also act as false substrates, where the drug molecule undergoes chemical transformation to form an abnormal product that subverts the normal metabolic pathway.
+
+### Transporters
