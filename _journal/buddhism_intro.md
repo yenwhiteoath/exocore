@@ -1,11 +1,11 @@
 ---
-subtitle: Buddhism - Introduction
+subtitle: Siddharta's Dharma
 topic:
 date: 2022-10-07
 tags: buddhism
 ---
 
-# Buddhism - Introduction
+# Siddharta's Dharma
 [TODO]
 ## 🎐🎐🎐
 
