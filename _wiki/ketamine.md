@@ -4,6 +4,9 @@ date: 2022-10-10
 tags: health
 ---
 # Ketamine
+
+[Brief Primers on the Neuroscience of Psychedelics 4: The NMDA Antagonists](https://alieninsect.substack.com/p/brief-primers-on-the-neuroscience-0dc)
+
 - [A randomized placebo-controlled PET study of ketamine´s effect on serotonin1B receptor binding in patients with SSRI-resistant depression](https://www.nature.com/articles/s41398-020-0844-4)
     - [Some comments by Haidut](http://haidut.me/?p=1086.)
     - Most other studies suggest NMDA antagonism or complex  being the reason why ketamine has antidepressant effects. But other similar NMDA antagonists do not act rapidly, suggesting a different mechanism at play with Ketamine. If this is true then most other studies are wrong.

@@ -1,30 +1,36 @@
 ---
 subtitle:
-topic: Links
+topic: Linkdump
 date: 2022-11-19
 tags: hyperdata
 ---
-# Links
+# Linkdump
+
+## Network
 - <https://zyg.edith.reisen/>
-- [Miya archive](/library/miya_archive.txt)
+- [Miya archive - whiteoath.net](/library/miya_archive.txt)
+- [Miya archive - zerobin.net](https://zerobin.net/?1ccb4e8e2734389b#BiwkpdlheHmpmldvzK5EhyzBrJk1Pb4A6YSBaj2W4tM=)
 - <https://chen2.org/realtime_paper.html>
-- <https://zerobin.net/?1ccb4e8e2734389b#BiwkpdlheHmpmldvzK5EhyzBrJk1Pb4A6YSBaj2W4tM=>
 - <https://primecult.one/>
 - <https://mirror.xyz/singlemother.eth>
 - <https://login.toikos.net/articles>
 - <https://cryptocculture.com/>
-- <https://theses.ncl.ac.uk/jspui/bitstream/10443/3350/1/Overy%2C%20S.%202016.pdf>
+- [Teilhard de Chardin and Transhumanism](https://jetpress.org/v20/steinhart.htm)
+- [Cyberspace and the Dream of Teilhard de Chardin](http://theoblogical.org/dlature/united/ph2paper/noosph.html)
 - <https://zermatist.medium.com/collective-mnemotechnics-the-neglected-engine-of-digital-tribalism-a02467f12bd4>
-- <https://www.hgi.org.uk/resources/delve-our-extensive-library/interviews/mysterious-jung-his-cult-lies-he-told-and-occult>
-- <https://counter-currents.com/2021/01/heidegger-metaphysics-middle-ages/>
-- <https://www.metamute.org/editorial/articles/art-war-deleuze-guattari-debord-and-israeli-defence-force>
-- <http://nietzsche.holtof.com/Nietzsche_thus_spake_zarathustra/I_01.html>
 - <https://www.are.na/blog/visions-of-connection>
-- <http://theoblogical.org/dlature/united/ph2paper/noosph.html>
-- <https://geohot.github.io/blog/>
-- <https://jetpress.org/v20/steinhart.htm>
+
+## Western Philosophy
+- [The genealogy of Nick Land's anti-anthropocentric philosophy](https://theses.ncl.ac.uk/jspui/bitstream/10443/3350/1/Overy%2C%20S.%202016.pdf)
+- <https://www.hgi.org.uk/resources/delve-our-extensive-library/interviews/mysterious-jung-his-cult-lies-he-told-and-occult>
+- <https://www.metamute.org/editorial/articles/art-war-deleuze-guattari-debord-and-israeli-defence-force>
+- <https://counter-currents.com/2021/01/heidegger-metaphysics-middle-ages/>
+- <http://nietzsche.holtof.com/Nietzsche_thus_spake_zarathustra/I_01.html>
 - <https://www.radicalphilosophy.com/article/axiomatic-heresy>
 - <https://psuedoanalysis.blogspot.com/p/freebased-guattari.html>
+
+## Misc
+- <https://geohot.github.io/blog/>
 - <https://cutenoumena.medium.com/nintendo-aesthetics-and-cartridge-epistemology-12064e77dcb9>
 - <https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=62070>
 - <https://seoulbeats.com/2019/11/in-defense-of-noise-sm-future-sound-and-red-velvet/>
@@ -33,13 +39,14 @@ tags: hyperdata
 - <https://mubi.com/notebook/posts/the-baroque-spiraling-michael-bay-and-the-dromospheric-cinema>
 - <https://sabukaru.online/>
 - <https://nervewing.blogspot.com/>
-- <https://impero.substack.com/p/bioenergetics-i-introduction>
-- <https://chuangcn.org/>
-- <https://pseudoerasmus.com/>
-- <https://samoburja.com/essays/>
-- <https://www.palladiummag.com/2021/03/24/the-end-of-industrial-society/>
+
+## Politics
 - <https://spandrell.com/>
+- <https://samoburja.com/essays/>
+- <https://chuangcn.org/>
 - <https://andrewbatson.com/>
+- <https://pseudoerasmus.com/>
+- <https://www.palladiummag.com/2021/03/24/the-end-of-industrial-society/>
 - <https://astralcodexten.substack.com/p/book-review-how-asia-works>
 - <https://www.overcomingbias.com/2019/09/dreamtime-games.html>
 - <https://brettscott.substack.com/p/top-10-reads?s=r>
@@ -54,7 +61,7 @@ tags: hyperdata
 - <https://www.theatlantic.com/magazine/archive/1993/12/how-the-world-works/305854/>
 - <https://www.dailymail.co.uk/news/article-9783807/Navy-disarray-focusing-diversity-training-warfighting-report-says.html>
 - <https://www.chicagotribune.com/opinion/commentary/ct-gloria-steinem-cia-20151025-story.html>
-
+- <https://threadreaderapp.com/thread/1360204951327186947.html>
 
 
 
