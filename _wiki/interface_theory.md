@@ -1,6 +1,6 @@
 ---
 topic:
-date: 2022-10-10
+date: 2023-04-19
 tags: hyperdata biology
 ---
 # Interface theory of perception
