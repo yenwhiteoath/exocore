@@ -10,6 +10,8 @@ tags: health
 [Ray Peat: Where to Start](https://impero.substack.com/p/bioenergetics-i-introduction)
 [Guide to Ray Peat: Simple, User-friendly Guide to Applying Lessons learned from the Research of Dr. Raymond Peat](https://raypeatforum.com/community/threads/guide-to-ray-peat-simple-user-friendly-guide-to-applying-lessons-learned-from-the-research-of-rp.27020/)
 [Quick Guide to Ray Peat](https://sonofsaturn.com/quick-guide-to-ray-peat/)
+[Ray Peat search engine](https://www.bioenergetic.life/)
+
 
 ## [Debunking The Biggest Health Myths With Georgi Dinkov (timestamped)](https://youtu.be/vgqbaubsQd4?t=2804)
 
