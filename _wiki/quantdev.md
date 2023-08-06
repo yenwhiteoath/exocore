@@ -8,6 +8,7 @@ tags: computing finance
 
 - [Max Dama - Quantitative trading summary](https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/)
 - [The boy's guide to pricing and hedging](https://ieor.columbia.edu/files/seasdepts/file_attach/BoysGuide.pdf)
+- [What is Algorithmic Trading](https://quantnet.ai/documentation/en/theory/theoretical_basis.html)
 - [Collected HN comments on quantitative trading](/library/quant.txt)
 - [The Accidental HFT Firm](/library/accidental_hft.txt)
 - [Numerai](https://numerai.fund/)

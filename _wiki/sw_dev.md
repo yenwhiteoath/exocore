@@ -30,6 +30,10 @@ tags: computing
 
 ## Misc
 - [Functional CS curriculum](https://functionalcs.github.io/curriculum/)
+  - Archived threads: 
+    - https://archive.li/VTl7p
+    - https://archive.li/2w4hY
+    - https://archive.li/Rb9gT
 - [Dan Luu - Programming blogs ](https://danluu.com/programming-blogs/)
 - [SQLite is not a toy database](https://antonz.org/sqlite-is-not-a-toy-database/)
 - [Impersonal Computing](https://mirror.xyz/0x948f83297B50B7189C7458DEEa9e4C12F3c3F310/UV37bAOl-2EBc9i1H4EOqTBOaH2jxDTy7wtUFP7dOl4)

@@ -48,6 +48,7 @@ tags: aesthetics
 
     Inventory
     FRUiTS
+    Kerouac
     Mens' Non-No
     Mens' Fudge
     i-D
