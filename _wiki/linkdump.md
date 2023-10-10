@@ -41,6 +41,7 @@ tags: hyperdata
 - <https://nervewing.blogspot.com/>
 
 ## Politics
+- <https://firstness.org/>
 - <https://spandrell.com/>
 - <https://samoburja.com/essays/>
 - <https://chuangcn.org/>

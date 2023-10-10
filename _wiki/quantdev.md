@@ -19,4 +19,4 @@ tags: computing finance
   - [espressolover collected posts](/library/espressolover.txt)
 - [High-frequency Trading and Exchange Technology](https://queue.acm.org/detail.cfm?id=2536492)
 - [Online Algorithms in High-frequency Trading](https://queue.acm.org/detail.cfm?id=2534976)
-- [Creating an HFT Strategy](https://mechanicalmarkets.wordpress.com/2015/01/20/identifying-trader-type-pt-2/) 
+- [Creating an HFT Strategy](https://mechanicalmarkets.wordpress.com/2015/01/20/identifying-trader-type-pt-2/)
