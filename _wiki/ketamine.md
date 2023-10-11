@@ -4,7 +4,7 @@ date: 2022-10-10
 tags: health
 ---
 # Ketamine
-The main use of ketamine for me is for its ability to enhance appreciation and especially immersion for all kinds of media. It's mildly psychedelic too and I find it to increase creative thinking and a lowering of pre-conceived notions and static thought patterns. The mix of calmness and immersion seems to help with ADHD symptoms too although there's better substance for that. The medium-term anti-anhedonia effects are a nice bonus.
+The main use of ketamine for me is its ability to enhance appreciation and especially immersion for all kinds of media. It's mildly psychedelic too and I find it to increase creative thinking and a lowering of pre-conceived notions and static thought patterns. The mix of calmness and immersion seems to help with ADHD symptoms too although there are better substances for that. The medium-term anti-anhedonic effect that follows its use is a nice bonus.
 
 I find its use outside/in clubs to be overrated, only small bumps should be used which are almost the same in effect with alcohol but with better disinhibition and relaxation. Anything more will mostly just create problems without much benefits. Ketamine shines inside home, at night. Its most obvious characteristic will be music appreciation and the user will stay busy with this activity for the first uses. After some time when music stops being that interesting, the other positive effects of ketamine will become more apparent as one starts acclimating to the substance and it will take a more calm and introspective and less hedonistic role, but will still remain an overall experience enhancer.
 
