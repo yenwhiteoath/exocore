@@ -37,8 +37,12 @@ tags: hyperdata
 - <https://www.sensesofcinema.com/2015/michael-bay-dossier/michael-bay-machine-movement/>
 - <https://filmparlato.com/index.php/numeri/5/item/113-war-games-1-13-hours-the-secret-soldiers-of-benghazi-michael-bay>
 - <https://mubi.com/notebook/posts/the-baroque-spiraling-michael-bay-and-the-dromospheric-cinema>
+- <https://nchrs.xyz/index.html>
 - <https://sabukaru.online/>
 - <https://nervewing.blogspot.com/>
+- <https://progress.institute/>
+- <http://en.howtopedia.org/wiki/Main_Page>
+- <https://worksinprogress.co/>
 
 ## Politics
 - <https://firstness.org/>
