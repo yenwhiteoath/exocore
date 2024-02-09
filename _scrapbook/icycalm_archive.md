@@ -1,14 +1,15 @@
 ---
 subtitle: 
-topic: Icycalm collected essays on vidya
+topic: Icycalm collected essays on videogames
 date: 2022-11-6
 tags: vidya
 ---
 
 
 
-# On Set Theory and the Bastardization Process
+# Icycalm - Collected essays on videogames
 
+## On Set Theory and the Bastardization Process
 [By Alex Kierkegaard / January 24, 2014](https://culture.vg/features/art-theory/on-set-theory-and-the-bastardization-process.html)
 
 Let's kick off the second circle of videogame culture essays with a bang: with stuff that will blow your fucking mind and with theories which no one else besides a bona fide genius could devise.
@@ -40,7 +41,7 @@ A proper subset S' of a set S, denoted S' c S, is a subset that is strictly cont
    What we have just examined then is how the definition of the term "movie", originally intended to signify an artwork consisting of 24 black and white photographs being projected every second onto a theater screen, was progressively ENLARGED over the years and decades to include first sound, then color, then eventually even stereoscopic 3D and force feedback technologies — and of course ever higher levels of visual and aural fidelity in the form of higher resolution source images and sound. To realize what a gigantic level of confusion this seemingly harmless little semantic mixup has caused, consider that most movies, even today, are referred to as "motion pictures" or even "photoplays" in legal documents. Just watch the end credits of practically any modern film (another obsolete term that refuses to die, since there is no longer any filming involved in modern "films") and wait for that last burst of logos and the legal mumbo jumbo in the very end, and you'll see what I mean. Why is such an obsolete term as "photoplay" still being used in the twenty-first century to describe 48 frame-per-second, 4K 3D digital color films that support D-BOX force-feedback seats and 7.1 Dolby Surround sound? Because average people have a massive incapacity when it comes to abstraction, and all it takes is a slight change of terminology for their tiny little brains to completely lose track of what is happening. If, instead of continually enlarging the definition of the term "movie" WITHOUT REALIZING IT, they had simply adopted a new term for every new invention — e.g. talkies, colories, 3Dies, force-feedbies, et cetera — "videogames", or "games", or "interactivies" or whatever you want to call them would have simply been seen as yet another term in the long sequence of terms that started with "scratchies" (aka cave paintings), and no one would have got their panties all in a bunch over them. But, people being what they are (which is to say, stupid), they didn't, and this is why we are presently in the mess we are in, and why it took nothing less than a genius to come in and clear up the accumulated subhuman confusion of millennia.
 
 
-# Aesthetics and Mechanics and the Grand Unified Theory
+## Aesthetics and Mechanics and the Grand Unified Theory
 
 [By Alex Kierkegaard / May 30, 2017](https://culture.vg/features/art-theory/aesthetics-and-mechanics-and-the-grand-unified-theory.html)
 
@@ -79,7 +80,7 @@ Let's finally take care of this debacle that's been giving everyone so much trou
 
 "I've been banned from his site twice. He's a grammer-stalinist and is incredibly judgmental (although he is usually pretty accurate with his judgements) but absolutely brilliant. I completely believe that in a few decades some of his theories are going to get huge: like biographies being written about him huge. There's no backtracking, opinion-changing, or trend-seeking in his writing. He's had the same concepts for over a decade and continues to build on them which is why his stuff has so much depth. A normal journalist only explores something when it is trendy and then never discusses it again, jumping to the next trend. I sort of felt guilty after getting banned."
 
-# On Why Bigger Has Always Been Better, And Why It Always Will Be
+## On Why Bigger Has Always Been Better, And Why It Always Will Be
 
 [By Alex Kierkegaard / December 6, 2014](https://culture.vg/features/art-theory/why-bigger-is-better.html)
 
@@ -137,7 +138,7 @@ Zarathustra: "They punish you for all your virtues. Fundamentally they forgive y
 
 
 
-# The Motion-sensing Dead-end
+## The Motion-sensing Dead-end
 
 [By Alex Kierkegaard / January 7, 2017](https://culture.vg/features/art-theory/the-motion-sensing-dead-end.html)
 
@@ -151,7 +152,7 @@ I’ve been meaning to write this essay since the Wii days, believe it or not. A
 
    In videogames, then, we want to AMPLIFY movement — that is our goal here. So that if I move my finger, Marcus Fenix cuts a Locust in half. We don't want to do the OPPOSITE, which is cut something in half in real life so that a few pixels on a screen will change color. How can you not see that that would be RETARDED? It’s like all those morons who spend years playing those stupid music games, putting untold hours into mastering a dozen songs on a guitar controller instead of learning REAL guitar, which is not at all harder to learn and on which you can play ALL GUITAR SONGS EVER WRITTEN instead of just a dozen, and to a far greater degree of fidelity. But I will talk at length about this phenomenon and disease in the upcoming Guitar Freaks essay; the point you should take away from this for now is that guitar controllers are motion sensing interfaces too, and whoever uses them is a moron precisely because these devices simulate everyday, banal activities that are so easy to perform in real life that the idea of simulating them can only ever appeal to complete and utter morons.
 
-## VR versus Motion-sensing
+### VR versus Motion-sensing
 What you need to do then, to start grasping what the hell’s going on here, is to disentangle VR in your minds from motion sensing. VR, in the form of headsets, is a new thing (at least workable VR, because there have been older but unsuccessful versions), while motion-sensing is an old thing, a very old thing indeed — far older than the Wii even. VR doesn’t need motion-sensing to succeed — indeed, as I’ll be explaining in an upcoming essay, the success of these two enterprises is ultimately mutually exclusive — and motion sensing doesn’t need VR anymore than the thousands of flight simulators or racing games or light gun games throughout the decades have needed it, all of which relied on motion sensing to an extent for ideal performance.
    I am in fact a huge advocate of motion sensing WHEN IT CAN BE DONE WITH 1:1 CORRESPONDENCE; i.e. when the motion the player performs is more or less identical with the one his avatar does. I would never for example dream of playing a flight sim without a stick, a racing game without a wheel, a light gun game without a light gun. But a 1:1 Street Fighter motion-sensing game? You want me to attempt to pull off in my living room Guile’s moveset, which doesn’t even make mechanical sense? Which defies even the laws of fucking physics? If I could do those moves I wouldn't need the game! And SF and Guile are even some of the most tame examples of the genre I could give. Let’s not even get into the Guilty Gears and the Arcana Hearts! (which are the best games, by the way, precisely because they are the wildest, most imaginative ones). It’s no wonder that when motion sensing companies want to demonstrate the “full power” of their products (read: their full stupidity) they bring in frigging acrobats and gymnasts! Otherwise you’d get a fagot hopping on the spot while Guile did somersaults on screen, and the only conclusion that the viewer would be able to reach after the demonstration would be that everyone involved in it is mentally retarded — exactly as happened with the Wii’s shit.
    Or think of a game in which you fly. A jetpack game like Gun Valkyrie. What are the devs gonna do, insist that you buy a jetpack and go to the park to play the game? And the wilder the game, and the cooler the stuff you do in it, the more absurd the demands required to play it in 1:1 motion-sensing become. I mean, what about a space-based zero-g game? They’ll tell you to go to space? Or hire an airliner set up as an experimental zero-g environment? This shit’s retarded, G!
